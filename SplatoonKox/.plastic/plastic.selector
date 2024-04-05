@@ -1,4 +1,0 @@
-repository "SplatoonKox@Splatooniarze@cloud"
-  path "/"
-    br "/main"
-    co "/main"
